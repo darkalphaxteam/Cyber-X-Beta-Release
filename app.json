@@ -1,8 +1,8 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "Cyber-X WA BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/darkalphaxteam/bixby4",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
+  "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
