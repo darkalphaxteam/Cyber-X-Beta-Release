@@ -27,3 +27,5 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 4. Click [FORK](https://github.com/darkalphaxteam/Cyber-X-Beta-Release/fork)
 5. Upload Session.json You Forked Repo
 6. Deploy And Enjoy
+
+## ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEENS BOT-MD)
