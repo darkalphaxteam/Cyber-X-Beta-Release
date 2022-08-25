@@ -28,7 +28,7 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 5. Upload Session.json You Forked Repo
 6. Deploy And Enjoy
 
-## ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEENS BOT-MD)
+## ALL THE CREDITS GOES TO ORIGINAL REPO OWNER DGNEON (CHEEMS BOT-MD)
 
 ## UPDATES
 
