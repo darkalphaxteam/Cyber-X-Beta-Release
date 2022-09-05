@@ -88,9 +88,7 @@ async function startBixbyMD() {
     const callerId = json.content[0].attrs['call-creator']
     if (json.content[0].tag == 'offer') {
     let xeonfek = await BixbyMD.sendContact(callerId, global.owner)
-    BixbyMD.sendMessage(callerId, { text: `Automatic Block System!\nDon't Call Bot!\nPlease Ask Or Contact The Owner To Unblock You!`}, { quoted : xeonfek })
-    await sleep(8000)
-    await BixbyMD.updateBlockStatus(callerId, "block")
+    BixbyMD.sendMessage(callerId, { text: `Hi Caller Im Assistant of ${global.ownername} !\nHow can i help you !`}, { quoted : xeonfek })
     }
     })
 
