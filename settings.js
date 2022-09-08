@@ -15,7 +15,7 @@ global.APIKeys = {
 }
 
 
-//AUTO FUNCTIONS 
+//AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
