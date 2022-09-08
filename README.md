@@ -38,4 +38,4 @@ https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
 ```2022.08.25 - AntiTag Removed```
 
-```2022.09.08 - Costomizeble Footer , Tiktok Updated , New Alive with Costomizable Alive Massage and etc```
+```2022.09.08 - Costomizeble Footer , APK Downloader , Tiktok Updated , New Alive with Costomizable Alive Massage and etc```
