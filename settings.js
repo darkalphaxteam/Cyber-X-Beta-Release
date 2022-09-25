@@ -36,31 +36,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.vcardowner = ['94770075694'] //ur owner number
+global.ownername = "𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 [ 𝗠𝗢𝗢𝗗 𝗛𝗨𝗕]" //ur owner name
+global.ytname = "YT: ♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ϟ⓿" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Sri Lanka, Gampaha, Kirindiwela" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['94770075694']
+global.ownertag = '94770075694' //ur tag number
+global.botnumber = '94770075695' //Add your Bot Number For Log
+global.botname = '♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿' //ur bot name
+global.ig = "https://youtube.com/shorts/KoC0M9BIXxY?feature=share" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtube.com/shorts/KoC0M9BIXxY?feature=share" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.linkz = 'https://youtube.com/shorts/KoC0M9BIXxY?feature=share'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
-global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.packname = "♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿" //ur sticker watermark packname
+global.author = "Lakiya Official" //ur sticker watermark author
+global.footer = "♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿"
+global.aliveimg ="https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
+global.allmenuimg ="https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
+global.welcomeimg= "https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
+global.gbyeimg = "https://telegra.ph/file/8261fb730e44988aa8c93.jpg"
+global.alivemsg = "▭▬▭▬▭▬▭▬▭▬▭▬▭▬ ❤️🕊️ᴛʜᴇ ᴀʟɪᴠᴇ ᴍᴀꜱꜱᴀɢᴇ🕊️❤▬▭▬▭▬▭▬▭▬▭▬▭▬▭ ♫_𝗟𝗔𝗞𝗜𝗬𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧 ϟ⓿▭▬▭▬▭▬▭▬▭▬▭▬▭▬ 𝐑𝐔𝐋𝐄𝐒🕊️▬▬▬▬▬🕊️. ᴅᴏɴᴛ ᴜꜱᴇ ꜱᴘᴀᴍ🕊️. ᴅᴏɴᴛ ꜱᴇx ᴠɪᴅᴇᴏ🕊️. ᴅᴏɴᴛ ꜱᴇx ꜱᴛɪᴄᴋᴇʀ🕊️. ᴅᴏɴᴛ ᴜꜱᴇ ʙᴀᴅ ᴡᴏʀᴅ🕊️. ᴅᴏɴᴛ ᴜꜱᴇ ʙᴀᴅ ᴄᴏᴍᴍᴀɴᴅ🕊️. ᴅᴏɴᴛ ᴏᴛʜᴇʀ ɢʀᴏᴜᴘ ʟɪɴᴋ 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒🕊️▬▬▬▬▬▬▬▬🕊️.ꜱᴏɴɢ🕊️.ᴠɪᴅᴇᴏ🕊️.ʏᴛᴀ🕊️.ᴀʟɪᴠᴇ🕊️.ᴍᴇɴᴜ🕊️.ꜱᴛɪᴄᴋᴇʀ▬▭▬▭▬▭▬▭▬▭▬▭▬ʀᴜʟᴇꜱ ᴍᴜꜱᴛ ʙᴇ ꜰᴜʟʟᴏᴡᴇᴅ❗▭▬▭▬▭▬▭▬▭▬▭▬▭ɢʀᴏᴜᴘ ʟɪɴᴋ🕊️https://chat.whatsapp.com/CnCkAre9UiZBqbkGr8CV9Lᴏᴛʜᴇʀ ʟɪɴᴋ🕊️ɢʀᴏᴜᴘ 1https://chat.whatsapp.com/ILMuX8YOc8TGolDYvJRlk5ɢʀᴏᴘ 2https://chat.whatsapp.com/K2PcgqMB1O5FeB4BUKY9Ln▬▭▬▭▬▭▬▭▬▭ꜱʜᴀʀᴇ ᴀʟʟ ꜰʀɪᴇɴᴅꜱ🕊️▬▭▬▭▬▭▬▭▬▭ᴛʏᴘᴇ - [ .ᴍᴇɴᴜ ]"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94770075694'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
