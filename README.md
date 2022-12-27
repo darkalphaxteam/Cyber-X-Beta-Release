@@ -7,7 +7,7 @@
 ## QR Link 
 https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#index.js
 ## Deploy Link Template 
-```https://heroku.com/deploy?template=https://github.com/darkalphaxteam/Cyber-X-Beta-Release```
+```https://koyeb.com/deploy?git&repository=https://github.com/Belmont142/Cyber-X-Beta-Release```
 ## Support Group 
 https://chat.whatsapp.com/FfcKMEDNw4YGiJu5ws1nO1
 
