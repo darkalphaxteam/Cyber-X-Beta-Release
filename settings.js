@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['4915212908434','4915735426173']
-global.ownername = "MAGIC" //ur owner name
+global.ownername = "✨️MAGIC✨️" //ur owner name
 global.ytname = "YT: NOT FOUND" //ur yt chanel name
 global.socialm = "GitHub: Fw437f" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -45,7 +45,7 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 //BOT COSTOMIZEDTATION
 global.owner = ['4915212908434','4915735426173']
 global.ownertag = '4915212908434','4915735426173'
-global.botnumber = '14342694372' //Add your Bot Number For Log
+global.botnumber = '4915678182623' //Add your Bot Number For Log
 global.botname = 'CYBER-X' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
